@@ -1,0 +1,10 @@
+name: simple_windows_users_dir_check
+title: Simple Windows Users Dir Check
+maintainer: Stephen Ratz
+copyright: Stephen Ratz
+copyright_email: ratz.stephen@gmail.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile that checks for the existence of the Users directory.
+version: 0.1.0
+supports:
+  - os-family: windows
